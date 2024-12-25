@@ -82,7 +82,15 @@ The circuit integrates multiple infrared sensors and audio components. It proces
 
 ---
 
+## Documentation
+
+- **Final Report**: [Read the full report](media/NAVI_FinalReport.pdf)
+
+---
+
 ## Acknowledgments
+
+![Team Picture](media/NAVI_GroupPic.png)
 
 This project was developed in collaboration with:
 - **Henry Duisberg**
